@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Minfy%202nd%20Month%20Data%2BAI/Risk%20Classification%20System/Building%20model/mlruns/132291790468063750/2502838361174cc1b875ad2e8540901a/artifacts
+deleted_time: 1751362119674
+end_time: 1751361980172
+entry_point_name: ''
+experiment_id: '132291790468063750'
+lifecycle_stage: deleted
+run_id: 2502838361174cc1b875ad2e8540901a
+run_name: 'Decision Tree - {''max_depth'': 5, ''min_samples_split'': 10}'
+run_uuid: 2502838361174cc1b875ad2e8540901a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751361976841
+status: 3
+tags: []
+user_id: Minfy

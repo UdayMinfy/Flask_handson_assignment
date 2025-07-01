@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1751368782078
+current_stage: Production
+description: null
+last_updated_timestamp: 1751368782121
+name: Loan_Default_Best_Model
+run_id: 769ff8d2c3fa43f6bbe8659b015027f8
+run_link: null
+source: file:///C:/Users/Minfy/Documents/Minfy%202nd%20Month%20Data%2BAI/Risk%20Classification%20System/Building%20model/mlruns/279064242482347621/769ff8d2c3fa43f6bbe8659b015027f8/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/Minfy/Documents/Minfy%202nd%20Month%20Data%2BAI/Risk%20Classification%20System/Building%20model/mlruns/279064242482347621/769ff8d2c3fa43f6bbe8659b015027f8/artifacts/model
+user_id: null
+version: 5

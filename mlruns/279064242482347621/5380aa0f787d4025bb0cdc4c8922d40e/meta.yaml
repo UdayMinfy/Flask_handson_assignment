@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Minfy%202nd%20Month%20Data%2BAI/Risk%20Classification%20System/Building%20model/mlruns/279064242482347621/5380aa0f787d4025bb0cdc4c8922d40e/artifacts
+deleted_time: 1751367891924
+end_time: 1751367677538
+entry_point_name: ''
+experiment_id: '279064242482347621'
+lifecycle_stage: deleted
+run_id: 5380aa0f787d4025bb0cdc4c8922d40e
+run_name: Naive Bayes
+run_uuid: 5380aa0f787d4025bb0cdc4c8922d40e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751367674769
+status: 3
+tags: []
+user_id: Minfy

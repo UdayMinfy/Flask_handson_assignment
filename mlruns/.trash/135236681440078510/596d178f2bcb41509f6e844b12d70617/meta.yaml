@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/Minfy/Documents/Minfy%202nd%20Month%20Data%2BAI/Risk%20Classification%20System/Building%20model/mlruns/135236681440078510/596d178f2bcb41509f6e844b12d70617/artifacts
+deleted_time: 1751362589379
+end_time: 1751362567712
+entry_point_name: ''
+experiment_id: '135236681440078510'
+lifecycle_stage: deleted
+run_id: 596d178f2bcb41509f6e844b12d70617
+run_name: Logistic Regression
+run_uuid: 596d178f2bcb41509f6e844b12d70617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751362560289
+status: 3
+tags: []
+user_id: Minfy
