@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/Minfy/Documents/Minfy%202nd%20Month%20Data%2BAI/Risk%20Classification%20System/Building%20model/mlruns/180669987097636461/08a886b4d00048c7b39bf7cf1ca0c530/artifacts
+end_time: 1751473525932
+entry_point_name: ''
+experiment_id: '180669987097636461'
+lifecycle_stage: active
+run_id: 08a886b4d00048c7b39bf7cf1ca0c530
+run_name: Train_vs_Test_Historical
+run_uuid: 08a886b4d00048c7b39bf7cf1ca0c530
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751473524875
+status: 3
+tags: []
+user_id: Minfy
