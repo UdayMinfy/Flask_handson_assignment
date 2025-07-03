@@ -1,8 +1,9 @@
 artifact_uri: file:///c:/Users/Minfy/Documents/Minfy%202nd%20Month%20Data%2BAI/Risk%20Classification%20System/Building%20model/mlruns/180669987097636461/8b2e7ba4bca5486e8a86f6df5bc2e4fc/artifacts
+deleted_time: 1751527808479
 end_time: 1751472717936
 entry_point_name: ''
 experiment_id: '180669987097636461'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: 8b2e7ba4bca5486e8a86f6df5bc2e4fc
 run_name: Train_vs_Test_Historical
 run_uuid: 8b2e7ba4bca5486e8a86f6df5bc2e4fc
